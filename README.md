@@ -1,7 +1,7 @@
 # QGIS free online class
 
 
-ฟรีคอร์ส สำหรับผู้เริ่มใช้งานโปรแกรม QGIS
+🎯 ฟรีคอร์ส สำหรับผู้เริ่มใช้งานโปรแกรม QGIS
 
 ## 001- Add Web Map Service using QGIS
 
@@ -9,7 +9,10 @@
 
 #### 1. Web Map Service (WMS)
 ```
-https://sos-s03.gistda.or.th/geoserver/SDS/wms?
+http://change2.gistda.or.th/geoserver/wms?version=1.3.0
+
+https://sos-s03.gistda.or.th/geoserver/SDS/wms?version=1.3.0
+
 ```
 
 #### 2. Web Map Tile Service (WMTS)
