@@ -12,7 +12,6 @@
 http://change2.gistda.or.th/geoserver/wms?version=1.3.0
 
 https://sos-s03.gistda.or.th/geoserver/SDS/wms?version=1.3.0
-
 ```
 
 #### 2. Web Map Tile Service (WMTS)
