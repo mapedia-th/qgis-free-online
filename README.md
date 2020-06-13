@@ -1,1 +1,1 @@
-# qgis-free-online
+# QGIS free online class
