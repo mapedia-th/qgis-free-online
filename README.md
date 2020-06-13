@@ -3,7 +3,7 @@
 
 ฟรีคอร์ส สำหรับผู้เริ่มใช้งานโปรแกรม QGIS
 
-## 001- Add Web Map Service using QGIS (การเพิ่มชั้นข้อมูลจาก Web Map Service ด้วยโปรแกรม QGIS)
+## 001- Add Web Map Service using QGIS
 
 การใช้งาน Web Map Service เพื่อนำเข้าข้อมูลภาพถ่ายทางอากาศและภาพถ่ายจากดาวเทียมด้วยโปรแกรม QGIS  
 
