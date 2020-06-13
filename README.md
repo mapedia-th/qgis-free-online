@@ -41,3 +41,7 @@ https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}
 Google Terrain:
 https://mt1.google.com/vt/lyrs=p&x={x}&y={y}&z={z}
 ```
+#### 5. Add XYZ Tile Server with Python Console
+```
+https://github.com/mapedia-th/qgis-free-online/blob/master/qgis3_basemaps.py
+```
