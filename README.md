@@ -56,6 +56,7 @@ https://www.bing.com/maps
 
 Script by MAPEDIA
 https://github.com/mapedia-th/qgis-free-online/blob/master/qgis3_basemaps.py
+Note: [sourcetype, title, authconfig, password, referer, url, username, zmax, zmin]
 """
 
 
